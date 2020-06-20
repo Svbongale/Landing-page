@@ -1,0 +1,61 @@
+
+#content{
+	text-align: center;
+	padding-top: 25%;
+}
+
+.bg-light {
+    background-color: #6c757d !important;
+}
+
+a{
+	color: black;
+}
+
+body{
+	background: url(https://cdn.pixabay.com/photo/2017/10/30/18/44/hacking-2903156_1280.jpg) ;
+	background-size: cover;
+	background-position: center;
+	font-family: lato;
+}
+
+hr{
+	width: 600px;
+	border-bottom: 3px solid #41b317;
+}
+
+
+
+.alignment{
+	padding-left: 10px;
+	padding-right: 10px;
+	font-weight: 400;
+	border-left: 2px solid lightgrey;
+}
+
+li{
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+h1{
+	color: #17a2b8;
+
+}
+
+h1{
+	font-weight: 700;
+	font-size: 4em;
+
+}
+
+h3{
+	font-weight: 100;
+	color: cyan;
+	text-shadow: 0px 3px 6px grey;
+}
+
+html{
+	size: 100%;
+}
